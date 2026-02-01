@@ -4,6 +4,10 @@
 
 This repository contains the main scripts and notebooks used for global XCO₂ reconstruction, model training, prediction, and analysis.
 
+### 0. `Resample_codes`
+- All codes related to the resampling
+
+
 ### 1. `Feature_Engineering.ipynb`
 **Input:**  
 - Resampled feature variables  
